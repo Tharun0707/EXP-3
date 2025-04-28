@@ -1,5 +1,12 @@
+### Ex_No_3_Supply Chain Transparency for Luxury Good
+
+**Name : Tharun Sridhar**
+
+**Reg No : 212223230230**
+
 # Aim:
 To develop a smart contract that tracks the supply chain of luxury goods, ensuring authenticity.
+
 # Algorithm:
 The manufacturer records product creation details on-chain.
 
@@ -50,12 +57,15 @@ contract LuxurySupplyChain {
 ```
 # Expected Output:
 A luxury good (e.g., a Rolex watch) is registered on-chain.
+![image](https://github.com/user-attachments/assets/bca0d9e6-737d-4fc4-9450-a981da1f688f)
 
 
 Ownership is transferred at every checkpoint.
+![image](https://github.com/user-attachments/assets/424066f6-0b0a-4477-a416-fd1f45ac65e0)
 
 
 Buyers can check the authenticity before purchasing.
+![image](https://github.com/user-attachments/assets/00b0f724-1e0b-4690-8dad-2cfdc0f05e08)
 
 
 # High-Level Overview:
@@ -65,4 +75,4 @@ Helps prevent counterfeit luxury goods.
 Teaches real-world supply chain use cases.
 
 # RESULT : 
-
+Thus, we successfully developed a smart contract to track and verify the supply chain of luxury goods ensuring secure ownership transfer and product authenticity.
